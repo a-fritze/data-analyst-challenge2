@@ -1,6 +1,4 @@
-# Ergbnisse 
-
-* „Welche Ressorts laufen besonders gut? Gibt es signifikante Unterschiede zwischen Ressort hinsichtlich der Zahlen?“ 
+# Anmerkungen
 
 Weil ich keine Möglichkeit habe Rücksprache mit der Redaktion zu halten, habe ich mit einer explorativen Datenanalyse begonnen.
 Im Notebook, dass sich in diesem Repository befindet, sind die Schritte der Analyse nachzuvollziegen, vo der Datenbereinigung, der Datensichtung, Plotting und Analyse. Die Analyse ist nicht vollumfänglich, um zu einem Ergbniss zukommen, mit dem die Redaktion arbeiten kann, müssten vorab einige Fragen geklärt werden, wie:
@@ -9,12 +7,33 @@ Im Notebook, dass sich in diesem Repository befindet, sind die Schritte der Anal
   - Was ist der Schwerpunkt bei dieser Analyse?
   - Sollte nicht zusätzlich die Verweildauer überprüft werden, da diese mehr Auskunft darüber, ob der Inhalte die Leser:innen wirklich interessiert hat?
 
+Meine Überlegungen zu den Kennzahlen sind:
+  - Pageviews nicht nur vom Inhalt und Headline abhängig auch stark abhängug von der Platzierung, des Datums, Wochentags, SEO und     Platzierung in Social Media und Newsletter und anderen Verlinkungen 
+  - SubscriberPageViews wichtig um zu erfahren was die bestehenden Abodementen interessiert, diese gilt es zu halten
+
 Um eine relevante Analyse machen zu können müsste zu dem das Daten der Veröffentlichung eine Rolle spielen, da Artikel, die seid längerem zur Verfügung stehen, mehr Klicks und Conversionsgenerieren können, als Artikel, die erste vor kurzem veröffentlicht werden. Es wäre vielleicht eine Lösung nur die Kennzahlen von Artikeln zu bergleichen, die sie in den erstem zwei Wochen der Veröffentlichung geneieren konnten. 
 
-In meiner ersten Analyse habe ich das Datum der Veröffentlichung erstmal ignoriert, dinge die auf Grundlage des Datums noch geprüft werden könnten:
+In meiner ersten Analyse habe ich das Datum der Veröffentlichung erstmal ignoriert, Dinge die auf Grundlage des Datums noch geprüft werden könnten:
 
   - Spielt die Uhrzeit oder der Wochentag der Veröffentlichung eine Rolle bei der Generation von Klickzahlen?
   - Werden die unterschiedlichen Ressorts an manchen Wochentagen oder Uhrzeiten verrmehrt gelesen? Lohnt es sich zum Beispiel Artikel des Ressorts Gesellschaft eher am Abend zu veröffentlichen und Artikel des Ressorts eher am Morgen? 
   
 Zu dem wurden nach der ersten Sichtung und Analyse folgende Annahmen generiert:
+
+## „Welche Ressorts laufen besonders gut? Gibt es signifikante Unterschiede zwischen Ressort hinsichtlich der Zahlen?“ 
+
+- Ergebnisse aus der ersten Analyse, eine Zusammenfassung aus dem Notebook: 
+
+
+
+
+## „Welche Maßnahmen sollten wir ergreifen noch besser zu werden?“ 
+
+ - Macht es Sinn Artikel neben dem Resort einer Unterruprik zuzuordnen? Wenn, dann sollte es stringend gemacht werden
+ - Tags: Es wurden fast keine Tags gesetzt und wenn, erscheinen sie recht unspezifisch. Entweder lassen und Tagstrategie ausarbeiten oder automatisiertes Tagsystem etablieren? Tags könnten helfen Artikel besser nach Themen gruppieren und analysieren zu können
+ - Qualität der Daten: Manche Artikel wurden gar kein Ressort zugeorndet oder haben kein Veröffentlichungsdatum, für eine gute  Analyse ist auf die Qualität der Daten zu achten 
+ - Es gibt sechs Duplikate, wie ist das zustande gekommen und wie kann der Fehler in Zukunft verhindert werden?
+ - 
+
+
  
