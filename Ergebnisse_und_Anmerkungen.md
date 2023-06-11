@@ -34,6 +34,8 @@ Im folgendem sehen wir die Kennzahl "Subscriberpageviews" als Median, Mittelwert
 ![output_avg](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/5f65666f-2b78-44ae-bd8e-4265a4da4ec3)
 ![output_sum](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/de8ef3cd-ca44-482f-91c2-397557bd62b7)
 
+
+
 **Wir sehen also, dass es sehr auf die Betrachtungsweise der Zahlen ankommt, es aber durchaus Ressorts gibt, die tendenziell besser laufen als andere und das mit zum Teil signifikaten Unterschieden.**
 
 
