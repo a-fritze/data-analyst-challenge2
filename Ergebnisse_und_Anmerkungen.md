@@ -29,10 +29,11 @@ Eine Zusammenfassung aus dem Notebook:
 
 Im folgendem sehen wir die Kennzahl "Subscriberpageviews" als Median, Mittelwert und in Summe im Vergleich: 
 
+![output-median](https://github.com/a-fritze/data-analyst-challenge2/assets/118194705/389e8711-ce3b-4f2e-a35b-4c52f2e8cde7)
 
-![output-median](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/1b52ad34-b9fc-4c70-86dd-e7292abb732a)
-![output_avg](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/5f65666f-2b78-44ae-bd8e-4265a4da4ec3)
-![output_sum](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/de8ef3cd-ca44-482f-91c2-397557bd62b7)
+![output_avg](https://github.com/a-fritze/data-analyst-challenge2/assets/118194705/233fa64f-093c-47f6-ba70-e1d0288ed1e7)
+
+![output_sum](https://github.com/a-fritze/data-analyst-challenge2/assets/118194705/1f496db0-b876-4878-b8e3-cea79c8a13b1)
 
 
 
