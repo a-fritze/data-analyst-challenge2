@@ -3,9 +3,10 @@
 Anmerkungen:
 
 In einer realen Situation wäre der erste Schritt natürlich die Rücksprache mit dem Redaktionsteam. Einige Fragen müssten im Vorfeld geklärt werden. Zum Beispiel wäre es wichtig herauszufinden, mit welchen KPIs die Redaktion arbeitet, was speziell für sie interessant ist und welche KPIs eher für andere Abteilungen interessant sind.
-Für meine Arbeit wäre es wichtig, herauszufinden, welche Informationen die verschiedenen KPIs liefern können. Meine Gedanken zu den KPIs sind, dass zusätzlich KPIs wie die Verweildauer überprüft werden sollten, weil sie mehr Informationen darüber geben, ob der Inhalt von den Abonnenten wirklich gelesen wurde. Pageviews und SubscriberPageViews sind nicht nur vom Inhalt und der Überschrift abhängig, sondern auch stark von der Platzierung, dem Datum der Veröffentlichung, dem Wochentag, SEO und der Platzierung auf Social Media und Newslettern und die Verlinkungen auf der eigenen Seite sowie externen Seiten. Conversions ist eine besonders interessante Kennzahl, wenn es darum geht, zu überprüfen, welches Thema und welche Schlagzeile die Leute zum Abonnieren veranlasst hat, und ist besonders wichtig für den langfristigen wirtschaftlichen Erfolg der Zeitung.
 
-Um eine aussagekräftige Analyse zu erstellen, müsste das Veröffentlichungsdatum eine Rolle spielen, da Artikel, die schon lange verfügbar sind, mehr Klicks und Conversions generieren können als Artikel, die erst kürzlich veröffentlicht wurden. Es könnte eine Lösung sein, nur die Kennzahlen für Artikel zu vergleichen, die sie in den ersten zwei Wochen nach ihrer Veröffentlichung generieren konnten. 
+Für meine Arbeit wäre es wichtig, herauszufinden, welche Informationen die verschiedenen KPIs liefern können. Meine Gedanken zu den KPIs sind, dass zusätzlich KPIs wie die Verweildauer überprüft werden sollten, weil sie mehr Informationen darüber geben, ob der Inhalt von den Abonnenten wirklich gelesen wurde. Pageviews und SubscriberPageViews sind nicht nur vom Inhalt und der Überschrift abhängig, sondern auch stark von der Platzierung, dem Datum der Veröffentlichung, dem Wochentag, SEO und der Platzierung auf Social Media und Newslettern und die Verlinkungen auf der eigenen Plattform sowie externen Seiten. Conversions ist eine besonders interessante Kennzahl, wenn es darum geht, zu überprüfen, welches Thema und welche Überschrift die Nutzer:innen zum Abonnieren veranlasst hat und ist besonders wichtig für den langfristigen wirtschaftlichen Erfolg der Zeitung.
+
+Um eine aussagekräftige Analyse zu erstellen, müsste das Veröffentlichungsdatum eine Rolle spielen, da Artikel, die schon lange verfügbar sind, mehr Klicks und Conversions generieren können als Artikel, die erst kürzlich veröffentlicht wurden. Es könnte eine Lösung sein, nur die Kennzahlen der Artikel zu vergleichen, die sie in den ersten zwei Wochen nach ihrer Veröffentlichung generieren konnten. 
 
 In meiner ersten Analyse habe ich das Datum der Veröffentlichung vorerst ignoriert, was anhand des Datums noch überprüft werden könnte:
 
@@ -14,7 +15,7 @@ In meiner ersten Analyse habe ich das Datum der Veröffentlichung vorerst ignori
  
  Wichtig bei der Auswertung ist natürlich die Information, wo der Artikel platziert und verlinkt wurde. 
  
-Im Notizbuch, das sich in diesem Repository befindet, können die Schritte der Analyse von der Datenbereinigung über das Plotten bis hin zur Analyse nachvollzogen werden. 
+Im Notizbuch, das sich in diesem Repository befindet, können die Schritte der Analyse von der Datenbereinigung bis zum Plotten nachvollzogen werden. 
 
 
 Zu den ersten Ergebnissen der Datenanalyse:
@@ -25,12 +26,15 @@ Welche Ressorts gut laufen, lässt sich anhand der vorliegenden Zahlen nur sehr 
 
 Eine Zusammenfassung aus dem Notebook: 
 - Da die meisten Ressorts extreme Outliner bei den verschiedenen Kennzahlen aufweisen, wurde der Median der verschiedenen Kennzahlen berechnet, mit dem Ergebnis, dass Politik das Ressort mit den besten Werten bei allen verfügbaren Kennzahlen ist, gefolgt von Gesellschaft und Gesundheit.
-Hier sehen wir die Kennzahlen als Median, Mittelwert und in Summe im Vergleich: 
+
+Im folgendem sehen wir die Kennzahl "Subscriberpageviews" als Median, Mittelwert und in Summe im Vergleich: 
 
 
 ![output-median](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/1b52ad34-b9fc-4c70-86dd-e7292abb732a)
-![outputsub](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/10ee8c5e-a0a4-4845-8597-947c226afe70)
-![output_sum](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/63f27049-451c-48ca-b814-2031e5c71c29)
+![output_avg](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/5f65666f-2b78-44ae-bd8e-4265a4da4ec3)
+![output_sum](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/de8ef3cd-ca44-482f-91c2-397557bd62b7)
+
+
 
 Es gibt signifikante Unterschiede hinsichtlich der Zahlen unterhalb der Ressorts, aber besonders auch unterhalb der Artikel unabhängig vom Ressort. 
 
