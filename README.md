@@ -26,8 +26,9 @@ Eine Zusammenfassung aus dem Notebook:
 - Da die meisten Ressorts extreme Outliner bei den verschiedenen Kennzahlen aufweisen, wurde der Median der verschiedenen Kennzahlen berechnet, mit dem Ergebnis, dass Politik das Ressort mit den besten Werten bei allen verfügbaren Kennzahlen ist, gefolgt von Gesellschaft und Gesundheit.
 Hier sehen wir die Kennzahlen als Median, Mittelwert und in Summe im Vergleich: 
 
-
-![output](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/f583fd73-6bd9-4afa-a2b5-bbe9846701a8)
+![output_median](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/132a129b-f05c-4ded-92da-3076a53cf21c)
+![outputsub](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/10ee8c5e-a0a4-4845-8597-947c226afe70)
+![output_sum](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/63f27049-451c-48ca-b814-2031e5c71c29)
 
 Es gibt signifikante Unterschiede hinsichtlich der Zahlen unterhalb der Ressorts, aber besonders auch unterhalb der Artikel unabhängig vom Ressort. 
 
