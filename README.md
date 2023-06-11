@@ -1,6 +1,7 @@
 # Anmerkungen und Ergebnisse
 
 Anmerkungen:
+
 In einer realen Situation wäre der erste Schritt natürlich die Rücksprache mit dem Redaktionsteam. Einige Fragen müssten im Vorfeld geklärt werden. Zum Beispiel wäre es wichtig herauszufinden, mit welchen KPIs die Redaktion arbeitet, was speziell für sie interessant ist und welche KPIs eher für andere Abteilungen interessant sind.
 Für meine Arbeit wäre es wichtig, herauszufinden, welche Informationen die verschiedenen KPIs liefern können. Meine Gedanken zu den KPIs sind, dass zusätzlich KPIs wie die Verweildauer überprüft werden sollten, weil sie mehr Informationen darüber geben, ob der Inhalt von den Abonnenten wirklich gelesen wurde. Pageviews und SubscriberPageViews sind nicht nur vom Inhalt und der Überschrift abhängig, sondern auch stark von der Platzierung, dem Datum der Veröffentlichung, dem Wochentag, SEO und der Platzierung auf Social Media und Newslettern und die Verlinkungen auf der eigenen Seite sowie externen Seiten. Conversions ist eine besonders interessante Kennzahl, wenn es darum geht, zu überprüfen, welches Thema und welche Schlagzeile die Leute zum Abonnieren veranlasst hat, und ist besonders wichtig für den langfristigen wirtschaftlichen Erfolg der Zeitung.
 
@@ -26,7 +27,8 @@ Eine Zusammenfassung aus dem Notebook:
 - Da die meisten Ressorts extreme Outliner bei den verschiedenen Kennzahlen aufweisen, wurde der Median der verschiedenen Kennzahlen berechnet, mit dem Ergebnis, dass Politik das Ressort mit den besten Werten bei allen verfügbaren Kennzahlen ist, gefolgt von Gesellschaft und Gesundheit.
 Hier sehen wir die Kennzahlen als Median, Mittelwert und in Summe im Vergleich: 
 
-![output_median](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/132a129b-f05c-4ded-92da-3076a53cf21c)
+
+![output-median](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/1b52ad34-b9fc-4c70-86dd-e7292abb732a)
 ![outputsub](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/10ee8c5e-a0a4-4845-8597-947c226afe70)
 ![output_sum](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/63f27049-451c-48ca-b814-2031e5c71c29)
 
