@@ -15,7 +15,7 @@ In meiner ersten Analyse habe ich das Datum der Veröffentlichung vorerst ignori
  
  Wichtig bei der Auswertung ist natürlich die Information, wo der Artikel platziert und verlinkt wurde. 
  
-Im Notizbuch, das sich in diesem Repository befindet, können die Schritte der Analyse von der Datenbereinigung bis zum Plotten nachvollzogen werden. 
+Im Notebook, das sich in diesem Repository befindet, können die Schritte der Analyse von der Datenbereinigung bis zum Plotten nachvollzogen werden. 
 
 
 Zu den ersten Ergebnissen der Datenanalyse:
@@ -25,7 +25,7 @@ Zu den ersten Ergebnissen der Datenanalyse:
 Welche Ressorts gut laufen, lässt sich anhand der vorliegenden Zahlen nur sehr bedingt beantworten. Es fehlen wichtige Kennzahlen, und die Laufzeiten der Artikel sind sehr unterschiedlich. 
 
 Eine Zusammenfassung aus dem Notebook: 
-- Da die meisten Ressorts extreme Outliner bei den verschiedenen Kennzahlen aufweisen, wurde der Median der verschiedenen Kennzahlen berechnet, mit dem Ergebnis, dass Politik das Ressort mit den besten Werten bei allen verfügbaren Kennzahlen ist, gefolgt von Gesellschaft und Gesundheit.
+- Da die meisten Ressorts extreme Outliner bei den verschiedenen Kennzahlen aufweisen, wurde der Median der verschiedenen Kennzahlen berechnet, mit dem Ergebnis, dass Politik das Ressort mit den besten Werten bei allen verfügbaren Kennzahlen ist, Gesellschaft, Gesundheit und Wissen weisen im Vergleich und je nach Kennzahl ebenso gute Werte auf.
 
 Im folgendem sehen wir die Kennzahl "Subscriberpageviews" als Median, Mittelwert und in Summe im Vergleich: 
 
@@ -34,9 +34,9 @@ Im folgendem sehen wir die Kennzahl "Subscriberpageviews" als Median, Mittelwert
 ![output_avg](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/5f65666f-2b78-44ae-bd8e-4265a4da4ec3)
 ![output_sum](https://github.com/a-fritze/data-analyst-challenge/assets/118194705/de8ef3cd-ca44-482f-91c2-397557bd62b7)
 
+**Wir sehen also, dass es sehr auf die Betrachtungsweise der Zahlen ankommt, es aber durchaus Ressorts gibt, die tendenziell besser laufen als andere und das mit zum Teil signifikaten Unterschieden.**
 
 
-Es gibt signifikante Unterschiede hinsichtlich der Zahlen unterhalb der Ressorts, aber besonders auch unterhalb der Artikel unabhängig vom Ressort. 
 
 
 ## „Welche Maßnahmen sollten wir ergreifen noch besser zu werden?“ 
